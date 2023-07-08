@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Somnath</h1>
 <h3 align="center"> a passionate developer with a love for clean code and innovative solutions. I enjoy working on challenging projects and continuously learning new technologies.</h3>
-<video controls width="100%" height="auto">
-  <source src="https://cdnl.iconscout.com/lottie/premium/preview-watermark/working-software-engineer-6369148-5304704.mp4?h=700" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
+<div style="width:100%;height:0;padding-bottom:75%;position:relative;"><iframe src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">via GIPHY</a></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=somnathnavale&label=Profile%20views&color=0e75b6&style=flat" alt="somnathnavale" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
