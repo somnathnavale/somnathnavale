@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Somnath</h1>
 <h3 align="center"> a passionate developer with a love for clean code and innovative solutions. I enjoy working on challenging projects and continuously learning new technologies.</h3>
+<video controls width="100%" height="auto">
+  <source src="https://cdnl.iconscout.com/lottie/premium/preview-watermark/working-software-engineer-6369148-5304704.mp4?h=700" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=somnathnavale&label=Profile%20views&color=0e75b6&style=flat" alt="somnathnavale" /> </p>
 
