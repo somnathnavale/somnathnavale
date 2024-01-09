@@ -8,9 +8,9 @@
 
 - 🔭 I’m currently working at Zensar Technologies
   
-- 🌱 I’m currently learning **Java, Springboot**
+- 🌱 I’m currently exploring **Supabase, Postgres**
 
-- 💬 Ask me about **javascript, reactjs, nodejs, expressjs, materialui, mongodb,**
+- 💬 Ask me about **JavaScript, Java, Reactjs, Springboot, Nodejs, Expressjs, Material-UI, MongoDB, MySQL **
 
 - 📫 How to reach me **somnathnavale112001@gmail.com**
 
