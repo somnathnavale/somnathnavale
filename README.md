@@ -10,7 +10,7 @@
   
 - 🌱 I’m currently exploring **Supabase, Postgres**
 
-- 💬 Ask me about **JavaScript, Java, Reactjs, Springboot, Nodejs, Expressjs, Material-UI, MongoDB, MySQL **
+- 💬 Ask me about **JavaScript, Java, Reactjs, Springboot, Nodejs, Expressjs, Material-UI, MongoDB, MySQL**
 
 - 📫 How to reach me **somnathnavale112001@gmail.com**
 
