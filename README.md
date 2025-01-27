@@ -6,11 +6,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working at Zensar Technologies
+- 🔭 I’m currently working at UBS
   
 - 🌱 I’m currently exploring **Supabase, Postgres**
 
-- 💬 Ask me about **JavaScript, Java, Reactjs, Springboot, Nodejs, Expressjs, Material-UI, MongoDB, MySQL**
+- 💬 Ask me about **Java, JavaScript, Reactjs, Springboot, Nodejs, Material-UI, MongoDB, MySQL**
 
 - 📫 How to reach me **somnathnavale112001@gmail.com**
 
